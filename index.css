@@ -1,0 +1,99 @@
+h3{
+color: #EEEEEE;
+font-family: Verdana;
+font-weight: 700;
+font-style: Bold;
+font-size: 40px;
+leading-trim: NONE;
+line-height: 35.89px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+
+#scoreguest {
+
+font-family: Cursed Timer ULiL;
+font-weight: 400;
+font-style: Regular;
+font-size: 90px;
+leading-trim: NONE;
+line-height: 126.67px;
+letter-spacing: 0%;
+text-align: center;
+
+color:  #F94F6D;
+
+}
+
+#scorehome{
+    
+font-family: Cursed Timer ULiL;
+font-weight: 400;
+font-style: Regular;
+font-size: 90px;
+leading-trim: NONE;
+line-height: 126.67px;
+letter-spacing: 0%;
+text-align: center;
+
+color:  #F94F6D;
+}
+
+body {
+width: 575;
+height: 385;
+angle: 0 deg;
+opacity: 1;
+background-color:  #1B244A;
+
+}
+
+.score{
+width: 155;
+height: 120;
+top: 125px;
+left: 82px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 5px;
+background-color: #080001;
+
+}
+
+.btn-container{
+width: 155;
+height: 45;
+top: 271px;
+left: 82px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 5px;
+text-align: center;
+
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.screen{
+background-color: black;
+}
+
+button{
+    
+width: 45;
+height: 45;
+top: 271px;
+left: 82px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 5px;
+border-width: 2px;
+
+border: 2px ;
+
+color: #9AABD8;
+
+}
